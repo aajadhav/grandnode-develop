@@ -19,7 +19,7 @@
     <PackageReference Include="NetEscapades.AspNetCore.SecurityHeaders" Version="0.12.1" />
     <PackageReference Include="System.IO.FileSystem.AccessControl" Version="5.0.0" />
     <PackageReference Include="Wangkanai.Detection" Version="3.0.0" />
-    <PackageReference Include="WebEssentials.AspNetCore.PWA" Version="1.0.65" />
+    <PackageReference Include="WebEssentials.AspNetCore.PWA" Version="1.0.85" />
     <PackageReference Include="WebMarkupMin.AspNetCore3" Version="2.9.1" />
     <PackageReference Include="WebMarkupMin.Core" Version="2.9.0" />
   </ItemGroup>
