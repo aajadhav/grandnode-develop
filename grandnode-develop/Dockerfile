@@ -44,7 +44,7 @@ RUN dotnet build Plugins/Grand.Plugin.Widgets.FacebookPixel
 RUN dotnet build Plugins/Grand.Plugin.Widgets.Slider
 
 # Build runtime image
-FROM mcr.microsoft.com/dotnet/core/aspnet:3.1.0
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1.32
 
 RUN apt-get update -qq && apt-get -y install libgdiplus libc6-dev
 
