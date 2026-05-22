@@ -20,7 +20,7 @@
   </Target>
 
   <ItemGroup>
-    <PackageReference Include="Braintree" Version="5.2.0" />
+    <PackageReference Include="Braintree" Version="5.40.0" />
     <PackageReference Include="System.Xml.XPath.XmlDocument" Version="4.3.0" />
   </ItemGroup>
   
